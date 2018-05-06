@@ -1,0 +1,14 @@
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\My-Paint.exe
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\My-Paint.pdb
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\Tao.FreeGlut.dll
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\Tao.OpenGl.dll
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\Tao.Platform.Windows.dll
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\Tao.FreeGlut.xml
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\Tao.OpenGl.xml
+E:\My-Paint\Backup\My-Paint\bin\x86\Debug\Tao.Platform.Windows.xml
+E:\My-Paint\Backup\My-Paint\obj\x86\Debug\My-Paint.csprojResolveAssemblyReference.cache
+E:\My-Paint\Backup\My-Paint\obj\x86\Debug\My_Paint.Form1.resources
+E:\My-Paint\Backup\My-Paint\obj\x86\Debug\My_Paint.Properties.Resources.resources
+E:\My-Paint\Backup\My-Paint\obj\x86\Debug\My-Paint.csproj.GenerateResource.Cache
+E:\My-Paint\Backup\My-Paint\obj\x86\Debug\My-Paint.exe
+E:\My-Paint\Backup\My-Paint\obj\x86\Debug\My-Paint.pdb
